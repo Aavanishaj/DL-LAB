@@ -1,3 +1,7 @@
+basic image enhancements such as histogram equalization and morphological operations
+
+-------------------------------------------------------------------------------------
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
